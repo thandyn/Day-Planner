@@ -13,3 +13,5 @@ For this function, we made 2 variables. timeNow will take the current time using
 ![alt text](/assets/image/ss3.PNG)
 
 Our last for loop is to make get all of the local storage and to keep it from disappearing when we refresh the page. The last line of the is to keep the current date and time for the user to see the current time and date. 
+
+https://thandyn.github.io/Day-Planner/
